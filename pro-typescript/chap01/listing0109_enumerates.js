@@ -1,3 +1,4 @@
+// TODO: Figure out how this is implemented to translate to JavaScript...
 var VehicleType;
 (function (VehicleType) {
     VehicleType[VehicleType["PedalCycle"] = 0] = "PedalCycle";
