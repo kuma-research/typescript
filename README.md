@@ -3,5 +3,5 @@
 ## Books
 
 * Pro TypeScript (In Progress)
-  [x] - Chapter 01
+  * [x] - Chapter 01
 * TypeScript Reveal
