@@ -1,8 +1,7 @@
 var monuments = [];
 monuments.push({
     name: 'Mark',
-    heightInMeters: 46,
-    location: 'USA' // This field will fail type check
+    heightInMeters: 46
 });
 monuments.push({
     name: 'Peter the Great',

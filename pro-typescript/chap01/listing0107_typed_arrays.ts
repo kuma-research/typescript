@@ -8,8 +8,8 @@ var monuments: Monument[] = [];
 
 monuments.push({
   name: 'Mark',
-  heightInMeters: 46,
-  location: 'USA' // This field will fail type check
+  heightInMeters: 46
+  // location: 'USA' // This field will fail type check
 });
 
 monuments.push({
