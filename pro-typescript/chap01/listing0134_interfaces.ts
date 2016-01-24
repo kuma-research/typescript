@@ -16,7 +16,7 @@ interface Vehicle {
   currentLocation: Point;
   
   // Methods
-  travelTo(point: Point);
-  addPassenger(passenger: Passenger);
-  removePassenger(passenger: Passenger); 
+  travelTo(point: Point) : Point;
+  addPassenger(passenger: Passenger): void;
+  removePassenger(passenger: Passenger): void;
 }
